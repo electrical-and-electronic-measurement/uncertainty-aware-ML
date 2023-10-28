@@ -1,1 +1,4 @@
-# uncertainty-aware-ML
+# UNCERTAINTY-AWARE ML-BASED MEASUREMENT SYSTEMS
+
+Companion repository with supplemetary materials and notebook for the Phd thesis UNCERTAINTY AWARE MACHINE LEARNING BASED
+MEASUREMENT SYSTEMS
